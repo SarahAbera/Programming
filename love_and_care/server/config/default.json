@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "your_private_key_here",
+  "db": "mongodb://localhost:27017/lovecare"
+}
